@@ -2,13 +2,25 @@ site_name: "Alvin Ben George"
 site_url: "https://alvinbengeorge.github.io"
 nav:
   - Home: index.md
+  - Education: education.md
 
 theme:
   name: material
   features:
     - navigation.tabs
-  pallete: 
+  
+  palette: 
+    # Palette toggle for dark mode
     - scheme: slate
+      toggle:
+        icon: material/brightness-4 
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
 
   font:
     text: Roboto

@@ -4,6 +4,7 @@ nav:
   - Home: index.md
   - Education: education.md
   - Achievements: achievements.md
+  - Projects: projects.md
 
 theme:
   name: material
@@ -25,6 +26,7 @@ theme:
 
   font:
     text: Montserrat
+    code: Montserrat
 
 markdown_extensions:
   - admonition

@@ -5,3 +5,9 @@
 - [x] Econhacks Designer `[Hackathon 2021]`
 - [x] Finalist in Synchronize `[Blogger 2019]`
 - [x] Participated in Phenomenon `[Bass Guitarist 2019]`
+
+# `Experience`
+
+- [x] Junior Rock Band
+- [x] Senior Rock Band
+- [x] SRMKzilla Backend Developer

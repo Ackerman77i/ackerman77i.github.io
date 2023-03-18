@@ -7,6 +7,12 @@ theme:
   name: material
   features:
     - navigation.tabs
+  pallete: 
+    - scheme: slate
+
+  font:
+    text: Roboto
+    code: Roboto Mono
 
 markdown_extensions:
   - admonition

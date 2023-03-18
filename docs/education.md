@@ -25,3 +25,7 @@
 ### Campus activity
 - [x] Bass Guitarist `[Music Club]`
 - [x] Finalist in Synchronize 
+- [x] Participated in Phenomenon
+- [x] Senior Rock Band member
+- [x] Junior Rock Band member
+- [x] 1 year experience with Brass Brand

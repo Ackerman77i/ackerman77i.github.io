@@ -2,7 +2,7 @@
 
 ## About Me
 - [x] I am 19 years old
-- [x] I am studying in SRM University KTR
+- [x] Studying in SRM University KTR
 - [x] Electronics and Computer Science Student
 - [x] Interested in Blender, NodeJS and Python
 - [x] MEN and FastAPI Developer

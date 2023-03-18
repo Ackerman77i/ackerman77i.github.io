@@ -3,6 +3,7 @@ site_url: "https://alvinbengeorge.github.io"
 nav:
   - Home: index.md
   - Education: education.md
+  - Achievements: achievements.md
 
 theme:
   name: material
@@ -23,8 +24,7 @@ theme:
         name: Switch to dark mode
 
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: Montserrat
 
 markdown_extensions:
   - admonition

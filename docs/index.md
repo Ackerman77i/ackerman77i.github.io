@@ -1,21 +1,11 @@
 # `Hi I am Alvin`
-![head](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&text=Hello%20world&customColorList=12,13&animation=scaleIn)
 
 ## About Me
-```py
-from typing import List
-
-aboutMe: List[str] = [
-  "I am 19 years old",
-  "I study in SRM University KTR",
-  "Electronics and Computer Science Student",
-  "Interested in Blender, NodeJS and Python",
-  "MEN Developer" 
-]
-
-for i in aboutMe: 
-  print(i) #I don't forget indentation
-```
+- [x] I am 19 years old
+- [x] I am studying in SRM University KTR
+- [x] Electronics and Computer Science Student
+- [x] Interested in Blender, NodeJS and Python
+- [x] MEN and FastAPI Developer
 
 ## Tools
 <p>

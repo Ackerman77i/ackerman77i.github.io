@@ -28,4 +28,4 @@
 - [x] Participated in Phenomenon
 - [x] Senior Rock Band member
 - [x] Junior Rock Band member
-- [x] 1 year experience with Brass Brand
+- [x] 1 year experience with Brass Band

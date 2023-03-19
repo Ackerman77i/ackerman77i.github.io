@@ -11,3 +11,7 @@
 - [x] Junior Rock Band
 - [x] Senior Rock Band
 - [x] SRMKzilla Backend Developer
+
+# `Github Stats`
+
+![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvinbengeorge&show_icons=true&theme=gotham)

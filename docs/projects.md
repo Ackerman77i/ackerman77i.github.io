@@ -9,7 +9,7 @@
 - [x] More than 10 contributors
 - [x] More than 500 commits
 - [x] More than 10,000 lines of code
-- [x] 300 servers and 250,000 servers and counting
+- [x] 300 servers and 250,000 users and counting
 
 ### Links
 <a href="https://github.com/AlfredDiscordBot/alfred-discord-bot" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github_Repository-000000.svg?&style=for-the-badge&logo=github&logoColor=white"/> </a>

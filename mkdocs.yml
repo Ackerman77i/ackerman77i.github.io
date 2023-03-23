@@ -2,9 +2,6 @@ site_name: "Alvin Ben George"
 site_url: "https://alvinbengeorge.github.io"
 nav:
   - Home: index.md
-  - Education: education.md
-  - Achievements: achievements.md
-  - Projects: projects.md
 
 theme:
   name: material
@@ -33,11 +30,9 @@ extra:
   generator: false
   social:
   - icon: "fontawesome/brands/instagram"
-    link: "https://www.instagram.com/alvinallen333/"
+    link: "https://www.instagram.com/kev.saji/"
   - icon: "fontawesome/brands/github"
-    link: "https://www.github.com/alvinbengeorge"
-  - icon: "fontawesome/brands/linkedin"
-    link: "https://www.linkedin.com/in/alvin-ben-george-427383201/"
+    link: "https://github.com/Ackerman77"
 
 markdown_extensions:
   - admonition

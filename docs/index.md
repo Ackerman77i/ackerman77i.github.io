@@ -2,6 +2,10 @@
 
 
 !!! note "About Me"
-    - [x] Born in Kerala and raised in Bangalore , I was always taught to value culture and traditions. I have always been an avid follower of history and it's role in modern life. The beautiful mix of old and new creates a charming blend as rich as a cup of espresso. I wish to keep that mix alive.
+Hi! My name is Kevin Saji, and I’m a student at SRM Kattanakulathur.
 
-    - [x] In the coming years, I aim to do good not only in my academic life but also in my social life. I want to make new friends and create a stable network that sticks by me. Hoping to create beautiful memories in the upcoming years.  
+I was born in Kerala and raised in Bangalore and have always been interested in sports and video games. When I was younger, I would participate in out-door activities all day—and it wasn’t just for fun! It was because I wanted to .
+
+I’ve always loved playing football and kabaddi. I think they’re so fun and ! They have lives and personalities, and they can be funny, sad, or happy. They can also be adorable! And the best part is that they’re all so different.
+
+I’ve been working on a portfolio since high school but never finished it until recently. Now that I’m done with classes for this semester, I hope you’ll take a look at it!

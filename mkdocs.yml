@@ -2,6 +2,7 @@ site_name: "Kevin Saji"
 site_url: "https://ackerman77i.github.io"
 nav:
   - Home: index.md
+  - Education: education.md
 
 theme:
   name: material

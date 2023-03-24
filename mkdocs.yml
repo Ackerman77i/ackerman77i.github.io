@@ -1,5 +1,5 @@
 site_name: "Kevin Saji"
-site_url: "https://ackerman77i.github.io"
+site_url: "https://kevinsaji04.github.io"
 nav:
   - Home: index.md
   - Education: education.md
@@ -33,7 +33,7 @@ extra:
   - icon: "fontawesome/brands/instagram"
     link: "https://www.instagram.com/kev.saji/"
   - icon: "fontawesome/brands/github"
-    link: "https://github.com/Ackerman77"
+    link: "https://github.com/kevinsaji04"
 
 markdown_extensions:
   - admonition

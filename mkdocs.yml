@@ -3,6 +3,7 @@ site_url: "https://kevinsaji04.github.io"
 nav:
   - Home: index.md
   - Education: education.md
+  - DSA: dsa.md
 
 theme:
   name: material
